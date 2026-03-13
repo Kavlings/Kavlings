@@ -17,7 +17,7 @@
 
 First Class Computer Science graduate from Lancaster University, with a completed CIMA professional accounting qualification. I build things that sit at the intersection of software and finance — which is where most of the interesting problems are.
 
-Prior domain experience in conveyancing (Muve) gives me genuine context for PropTech and LegalTech products. Currently relocating to London and open to **junior software developer** and **technical analyst** roles.
+Prior domain experience in conveyancing (Muve) gives me genuine context for PropTech and LegalTech products. Currently relocating to London and open to **junior software developer**, **AI solutions sngineering** and **data engineering**roles.
 
 ---
 
@@ -35,7 +35,7 @@ Finance       CIMA · financial modelling · accounting systems
 ## Featured Project
 
 ### 🧠 Proactive Kubernetes Autoscaler
-GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes — benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
+GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
 
 ---
 
