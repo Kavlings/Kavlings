@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Kaweesha
+# Greetings! I'm Kaweesha !
 
 **CS First Class · CIMA Qualified · Fintech & PropTech**
 
 ---
 
 - 🔭 I'm currently working on a **Trading212 algorithmic trading project**
-- 🌱 I'm currently learning **Typscript** and deepening my knowledge of fintech infrastructure
+- 🌱 I'm currently learning **Typescript** and deepening my knowledge of fintech infrastructure
 - 👯 I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
 - 💬 Ask me about **Kubernetes autoscaling, deep learning for time series, or building a finance tool**
 - 📫 How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
@@ -17,7 +17,7 @@
 
 First Class Computer Science graduate from Lancaster University, with a completed CIMA professional accounting qualification. I build things that sit at the intersection of software and finance — which is where most of the interesting problems are.
 
-Prior domain experience in conveyancing (Muve) gives me genuine context for PropTech and LegalTech products. Currently relocating to London and open to **junior software developer**, **AI solutions sngineering** and **data engineering**roles.
+Prior domain experience in conveyancing (Muve) gives me genuine context for PropTech and LegalTech products. Currently relocating to London and open to **junior software developer**, **AI solutions engineering** and **data engineering**roles.
 
 ---
 
