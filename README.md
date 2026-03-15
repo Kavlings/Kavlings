@@ -1,4 +1,4 @@
-# Greetings! I'm Kaweesha !
+# greetings and welcome to my github. i'm kaweesha
 
 **CS First Class · CIMA Qualified · Fintech & PropTech**
 
