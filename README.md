@@ -10,7 +10,7 @@
 - I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
 - Ask me about **Kubernetes autoscaling(My dissertation), deep learning for time series, or building a finance tool**
 - How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
-- Fun fact: I bartended at Flight Club and I love to surf!
+- Fun fact(s): I bartended at Flight Club Darts and I love to surf!
 
 ---
 
