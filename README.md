@@ -2,7 +2,7 @@
 
 # I'm Kaweesha
 
-Aspiring Developer
+CS Grad & Aspiring Developer
 
 ---
 
