@@ -2,7 +2,7 @@
 
 # I'm Kaweesha
 
-**CS First Class - Aspiring Professional Developer
+First Class CS Grad - Aspiring Professional Developer
 
 ---
 
