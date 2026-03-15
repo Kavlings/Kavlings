@@ -2,7 +2,7 @@
 
 # I'm Kaweesha
 
-**CS First Class · CIMA Qualified · Fintech & PropTech**
+**CS First Class - Aspiring Professional Developer
 
 ---
 
