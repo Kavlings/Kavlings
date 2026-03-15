@@ -1,4 +1,4 @@
-# Greetings and welcome to my github. 
+# Greetings and Welcome ! 
 
 # I'm Kaweesha
 
