@@ -5,6 +5,7 @@
 ---
 
 - I'm currently working on a **Trading212 portfolio dashboard project**, rounding my knowledge and skills in full stack building from CSV and Trading212's nice API to selecting the sleekest UI and chart to show the end user. Planning to mess with LLM implementation after.
+- Also working freelance tinkering with MCPs and API integration to automate data enrichment for sales leads.
 - I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
 - I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
 - Ask me about **Kubernetes autoscaling(My dissertation), deep learning for time series, or building a finance tool**
