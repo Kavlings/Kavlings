@@ -6,7 +6,7 @@ CS Grad & Aspiring Developer
 
 ---
 
-- I'm currently working on a **Trading212 portfolio dashboard project**, rounding my knowledge and skills in full stack building from CSV and Trading212's nice API to selecting the sleekest UI and chart to show the end user. Planning to mess with LLM implementation after.
+- I'm currently working on a **Trading212 portfolio metrics project**, rounding my knowledge and skills in full stack development, building from CSV and Trading212's nice API to selecting the sleekest UI and chart to show the end user. Planning to mess with LLM implementation after.
 - Also working freelance tinkering with MCPs and API integration to automate data enrichment for sales leads.
 - I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
 - I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
@@ -38,6 +38,9 @@ Finance       CIMA · financial modelling · accounting systems
 ## Featured Projects
 
 ###  Proactive Kubernetes Autoscaler
+GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
+
+###  Trading212 Por
 GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
 
 ---
