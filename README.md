@@ -4,12 +4,12 @@
 
 ---
 
-- 🔭 I'm currently working on a **Trading212 portfolio dashboard project**
-- 🌱 I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
-- 👯 I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
-- 💬 Ask me about **Kubernetes autoscaling, deep learning for time series, or building a finance tool**
-- 📫 How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
-- ⚡ Fun fact: I bartended at Flight Club and I love to surf!
+- I'm currently working on a **Trading212 portfolio dashboard project**
+- I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
+- I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
+- Ask me about **Kubernetes autoscaling, deep learning for time series, or building a finance tool**
+- How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
+- Fun fact: I bartended at Flight Club and I love to surf!
 
 ---
 
@@ -34,7 +34,7 @@ Finance       CIMA · financial modelling · accounting systems
 
 ## Featured Project
 
-### 🧠 Proactive Kubernetes Autoscaler
+###  Proactive Kubernetes Autoscaler
 GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
 
 ---
