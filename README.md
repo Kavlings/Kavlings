@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 I'm currently working on a **Trading212 algorithmic trading project**
-- 🌱 I'm currently learning **Typescript** and deepening my knowledge of fintech infrastructure
+- 🔭 I'm currently working on a **Trading212 portfolio dashboard project**
+- 🌱 I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
 - 👯 I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
 - 💬 Ask me about **Kubernetes autoscaling, deep learning for time series, or building a finance tool**
 - 📫 How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
