@@ -30,7 +30,7 @@ Finance       CIMA · financial modelling · accounting systems
 🌊 Bartended at Flight Club, love to surf - best convos happen away from the screen
 💬 Reach me at kaweesha.don@gmail.com or LinkedIn
 
-
+---
 
 ## Featured Projects
 
