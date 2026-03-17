@@ -29,12 +29,3 @@ Finance       CIMA · financial modelling · accounting systems
 - 💬 Reach me at kaweesha.don@gmail.com or LinkedIn
 
 
-## Featured Projects
-
-###  Proactive Kubernetes Autoscaler
-GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
-
-###  Trading212 Por
-GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
-
----
