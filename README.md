@@ -4,10 +4,6 @@
 
 CS Grad & Aspiring Developer
 
----
-
----
-
 ## Tech Stack
 
 ```
