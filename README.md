@@ -6,14 +6,6 @@ CS Grad & Aspiring Developer
 
 ---
 
-- I'm currently working on a **Trading212 portfolio metrics project**, rounding my financial knowledge and skills in full stack development, building from CSV and Trading212's nice API to selecting the sleekest UI, chart and helpful metrics to show the end user. Planning to mess with LLM implementation after.
-- Also working freelance tinkering with MCPs and API integration to automate data enrichment for sales leads.
-- I'm currently learning **API implementation & Typescript** and deepening my knowledge of fintech infrastructure
-- I'm looking to collaborate on **fintech tools, data pipelines, or anything at the intersection of software and finance**
-- Ask me about **Kubernetes autoscaling(My dissertation), deep learning for time series, or building a finance tool**
-- How to reach me: https://www.linkedin.com/in/kaweesha/ · kaweesha.don@gmail.com
-- Fun fact(s): I bartended at Flight Club Darts and I love to surf!
-
 ---
 
 ## Tech Stack
@@ -26,6 +18,19 @@ Finance       CIMA · financial modelling · accounting systems
 ```
 
 ---
+
+🧠 Ask me about Kubernetes autoscaling, deep learning for time series, or building finance tools
+💳 CIMA-qualified dev — rare mix of accounting depth and software engineering
+🔗 Exploring AI agents, MCP tooling
+📊 Obsessed with turning raw financial data into useful products
+🛠️ Always building — currently: a portfolio dashboard, MCP automations, and levelling up in TypeScript
+🎯 Targeting fintech, PropTech, and LegalTech — junior AI or dev roles in London
+🤖 Recently certified in Claude Code by Anthropic — integrating AI tooling into real projects
+🧩 Dissertation: built a proactive Kubernetes autoscaler using GRU & N-BEATS on a live K3S cluster
+🌊 Bartended at Flight Club, love to surf - best convos happen away from the screen
+💬 Reach me at kaweesha.don@gmail.com or LinkedIn
+
+
 
 ## Featured Projects
 
