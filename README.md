@@ -16,14 +16,6 @@ CS Grad & Aspiring Developer
 
 ---
 
-## About Me
-
-First Class Computer Science graduate from Lancaster University, with a completed CIMA professional accounting qualification. I build things that sit at the intersection of software and finance which is where most of the interesting problems are. Also very interesting in implementing AI to automate processes, planning to explore workflow automation tools like n8n. Currently very intrigued with Claude for Excel for data standardization.
-
-Prior domain experience in conveyancing (Muve) gives me genuine context for PropTech and LegalTech products. Hoping to relocate to London and open to **junior software developer**, **AI solutions engineering** and **data engineering**roles.
-
----
-
 ## Tech Stack
 
 ```
@@ -44,5 +36,3 @@ GRU and N-BEATS deep learning models that predict load and scale pods *before* d
 GRU and N-BEATS deep learning models that predict load and scale pods *before* demand spikes - benchmarked live on a K3S edge cluster. Outperforms reactive HPA on latency and resource efficiency.
 
 ---
-
-*Open to roles where technical skills and financial fluency are both valued.*
