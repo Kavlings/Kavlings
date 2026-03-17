@@ -23,7 +23,7 @@ Finance       CIMA · financial modelling · accounting systems
 
 ---
 
-🧠 Ask me about Kubernetes autoscaling, deep learning for time series, or building finance tools
+- 🧠 Ask me about Kubernetes autoscaling, deep learning for time series, or building finance tools
 💳 CIMA-qualified dev — rare mix of accounting depth and software engineering
 🔗 Exploring AI agents, MCP tooling
 📊 Obsessed with turning raw financial data into useful products
