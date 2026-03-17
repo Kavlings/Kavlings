@@ -17,6 +17,10 @@ ML / Data     TensorFlow · PyTorch · GRU · N-BEATS · time series forecasting
 Finance       CIMA · financial modelling · accounting systems
 ```
 
+
+---
+
+
 ---
 
 🧠 Ask me about Kubernetes autoscaling, deep learning for time series, or building finance tools
@@ -30,7 +34,6 @@ Finance       CIMA · financial modelling · accounting systems
 🌊 Bartended at Flight Club, love to surf - best convos happen away from the screen
 💬 Reach me at kaweesha.don@gmail.com or LinkedIn
 
----
 
 ## Featured Projects
 
