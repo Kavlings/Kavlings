@@ -26,6 +26,6 @@ Finance       CIMA · financial modelling · accounting systems
 -  Exploring AI agents, MCP tooling
 -  Dissertation: built a proactive Kubernetes autoscaler using GRU & N-BEATS on a live K3S cluster
 -  Bartended at Flight Club, love to surf - best convos happen away from the screen
-- 💬 Reach me at kaweesha.don@gmail.com or LinkedIn
+- 💬 Reach me at kaweesha.don@gmail.com
 
 
