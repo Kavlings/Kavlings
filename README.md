@@ -1,6 +1,4 @@
-# Greetings and Welcome ! 
-
-# I'm Kaweesha
+# Greetings and Welcome! I'm Kaweesha
 
 CS Grad & Aspiring Developer
 
